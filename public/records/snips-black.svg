@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <defs>
+    <radialGradient id="v"><stop offset="0" stop-color="#30302d"/><stop offset=".45" stop-color="#171918"/><stop offset=".82" stop-color="#090a09"/><stop offset=".96" stop-color="#202220"/><stop offset="1" stop-color="#080908"/></radialGradient>
+  </defs>
+  <circle cx="500" cy="500" r="492" fill="url(#v)"/>
+  <g fill="none" stroke="#6d706b" stroke-opacity=".19">
+    <circle cx="500" cy="500" r="455"/><circle cx="500" cy="500" r="430"/><circle cx="500" cy="500" r="400"/><circle cx="500" cy="500" r="365"/><circle cx="500" cy="500" r="330"/><circle cx="500" cy="500" r="300"/>
+  </g>
+  <circle cx="500" cy="500" r="214" fill="#d98a37"/>
+  <path fill="#e02519" d="M286 354h205v59H286zm0 78h205v59H286zm0 78h205v59H286zm0 78h205v59H286z"/>
+  <path d="M490 286v428" stroke="#f7bc6a" stroke-width="7"/>
+  <g fill="#151914" font-family="monospace" font-weight="700"><text x="548" y="389" font-size="30">WHAT'S</text><text x="548" y="430" font-size="30">YOUR</text><text x="548" y="471" font-size="30">NUMBER</text><text x="548" y="559" font-size="24">SNIPS</text><text x="548" y="613" font-size="17">SIDE ONE / 45</text></g>
+  <circle cx="500" cy="500" r="21" fill="#eee7d4"/><circle cx="500" cy="500" r="8" fill="#8d846f"/>
+</svg>

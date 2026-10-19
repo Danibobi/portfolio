@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <defs><radialGradient id="v"><stop stop-color="#1d7187"/><stop offset=".7" stop-color="#145569"/><stop offset=".93" stop-color="#0b3a4b"/><stop offset="1" stop-color="#176d82"/></radialGradient></defs>
+  <circle cx="500" cy="500" r="492" fill="url(#v)"/>
+  <g fill="none" stroke="#8bc5cd" stroke-opacity=".2"><circle cx="500" cy="500" r="452"/><circle cx="500" cy="500" r="415"/><circle cx="500" cy="500" r="378"/><circle cx="500" cy="500" r="340"/><circle cx="500" cy="500" r="302"/></g>
+  <circle cx="500" cy="500" r="215" fill="#f0bdcb"/><text x="500" y="415" text-anchor="middle" fill="#153c46" font-family="monospace" font-size="27" font-weight="700">WHERE'S BILL</text><text x="500" y="468" text-anchor="middle" fill="#153c46" font-family="monospace" font-size="27" font-weight="700">GRUNDY NOW?</text><text x="500" y="600" text-anchor="middle" fill="#153c46" font-family="Arial Black" font-size="38">TV PERSONALITIES</text>
+  <circle cx="500" cy="500" r="18" fill="#f7e7eb"/><circle cx="500" cy="500" r="6" fill="#555"/>
+</svg>

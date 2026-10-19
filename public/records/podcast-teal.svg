@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-labelledby="title">
+  <title id="title">Podcast teal vinyl record</title>
+  <defs><radialGradient id="vinyl"><stop stop-color="#1b9b98"/><stop offset=".7" stop-color="#08716f"/><stop offset=".95" stop-color="#044745"/><stop offset="1" stop-color="#128985"/></radialGradient></defs>
+  <circle cx="500" cy="500" r="492" fill="url(#vinyl)"/>
+  <g fill="none" stroke="#bfe4df" stroke-opacity=".16"><circle cx="500" cy="500" r="445"/><circle cx="500" cy="500" r="395"/><circle cx="500" cy="500" r="345"/><circle cx="500" cy="500" r="292"/></g>
+  <circle cx="500" cy="500" r="215" fill="#f1d6bd"/>
+  <g fill="#165954" text-anchor="middle"><text x="500" y="356" font-family="monospace" font-size="26" font-weight="700">THE PODCAST</text><text x="500" y="538" font-family="Arial Black, sans-serif" font-size="130" font-weight="900">30+</text><text x="500" y="660" font-family="monospace" font-size="25" font-weight="700">EPISODES</text></g>
+  <g fill="#165954" font-family="monospace" font-size="16" font-weight="700"><text x="320" y="570">SIDE 06</text><text x="612" y="570">LIFE-07</text></g>
+  <circle cx="500" cy="500" r="23" fill="#f5f0df"/><circle cx="500" cy="500" r="8" fill="#6d6b63"/>
+</svg>

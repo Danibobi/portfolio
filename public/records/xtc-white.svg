@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <defs><radialGradient id="v"><stop stop-color="#faf9f0"/><stop offset=".7" stop-color="#e9e7dc"/><stop offset=".93" stop-color="#fff"/><stop offset="1" stop-color="#d6d4cd"/></radialGradient></defs>
+  <circle cx="500" cy="500" r="492" fill="url(#v)"/>
+  <g fill="none" stroke="#989890" stroke-opacity=".24"><circle cx="500" cy="500" r="450"/><circle cx="500" cy="500" r="410"/><circle cx="500" cy="500" r="370"/><circle cx="500" cy="500" r="330"/><circle cx="500" cy="500" r="290"/></g>
+  <circle cx="500" cy="500" r="215" fill="#0d1110"/><text x="500" y="474" text-anchor="middle" fill="#f5f4ec" font-family="Arial Black" font-size="108">XTC</text><text x="500" y="548" text-anchor="middle" fill="#ef497c" font-family="monospace" font-size="24">SCIENCE FRICTION</text>
+  <circle cx="500" cy="500" r="18" fill="#ddd"/><circle cx="500" cy="500" r="6" fill="#555"/>
+</svg>

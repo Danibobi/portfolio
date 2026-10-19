@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-labelledby="title">
+  <title id="title">School and Leadership blue vinyl record</title>
+  <defs><radialGradient id="vinyl"><stop stop-color="#266ab7"/><stop offset=".7" stop-color="#153f7b"/><stop offset=".95" stop-color="#0a244b"/><stop offset="1" stop-color="#215d9d"/></radialGradient></defs>
+  <circle cx="500" cy="500" r="492" fill="url(#vinyl)"/>
+  <g fill="none" stroke="#a7cdf1" stroke-opacity=".16"><circle cx="500" cy="500" r="445"/><circle cx="500" cy="500" r="395"/><circle cx="500" cy="500" r="345"/><circle cx="500" cy="500" r="292"/></g>
+  <circle cx="500" cy="500" r="215" fill="#efc84a"/>
+  <g fill="#10284b" text-anchor="middle"><text x="500" y="356" font-family="monospace" font-size="25" font-weight="700">ÖSTERREICHISCHE SCHULE</text><text x="500" y="540" font-family="Arial Black, sans-serif" font-size="132" font-weight="900">ÖSB</text><text x="500" y="660" font-family="monospace" font-size="25" font-weight="700">BUDAPEST</text></g>
+  <g fill="#10284b" font-family="monospace" font-size="16" font-weight="700"><text x="320" y="570">SIDE 01</text><text x="612" y="570">LIFE-07</text></g>
+  <circle cx="500" cy="500" r="23" fill="#f5f0df"/><circle cx="500" cy="500" r="8" fill="#6d6b63"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-labelledby="title">
+  <title id="title">Internships orange vinyl record</title>
+  <defs><radialGradient id="vinyl"><stop stop-color="#d45b35"/><stop offset=".7" stop-color="#ad3c24"/><stop offset=".95" stop-color="#762513"/><stop offset="1" stop-color="#c74a29"/></radialGradient></defs>
+  <circle cx="500" cy="500" r="492" fill="url(#vinyl)"/>
+  <g fill="none" stroke="#ffd09b" stroke-opacity=".16"><circle cx="500" cy="500" r="445"/><circle cx="500" cy="500" r="395"/><circle cx="500" cy="500" r="345"/><circle cx="500" cy="500" r="292"/></g>
+  <circle cx="500" cy="500" r="215" fill="#151d1a"/>
+  <g fill="#ffd36a" text-anchor="middle"><text x="500" y="356" font-family="monospace" font-size="25" font-weight="700">INTERNSHIPS</text><text x="500" y="532" font-family="Arial Black, sans-serif" font-size="82" font-weight="900">AI × FIN</text><text x="500" y="660" font-family="monospace" font-size="20" font-weight="700">IMAGILAB / CONCORDE</text></g>
+  <g fill="#ffd36a" font-family="monospace" font-size="16" font-weight="700"><text x="320" y="570">SIDE 02</text><text x="612" y="570">LIFE-07</text></g>
+  <circle cx="500" cy="500" r="23" fill="#f5f0df"/><circle cx="500" cy="500" r="8" fill="#6d6b63"/>
+</svg>

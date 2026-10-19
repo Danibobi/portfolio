@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <defs><radialGradient id="v"><stop stop-color="#0cad4b"/><stop offset=".55" stop-color="#058539"/><stop offset=".9" stop-color="#05632f"/><stop offset="1" stop-color="#028747"/></radialGradient></defs>
+  <circle cx="500" cy="500" r="492" fill="url(#v)"/>
+  <g fill="none" stroke="#073f25" stroke-opacity=".24"><circle cx="500" cy="500" r="455"/><circle cx="500" cy="500" r="420"/><circle cx="500" cy="500" r="385"/><circle cx="500" cy="500" r="350"/><circle cx="500" cy="500" r="315"/><circle cx="500" cy="500" r="280"/></g>
+  <circle cx="500" cy="500" r="215" fill="#e9ead5"/>
+  <text x="500" y="365" text-anchor="middle" fill="#1c3526" font-family="monospace" font-size="27" font-weight="700">DON'T CARE</text>
+  <text x="500" y="580" text-anchor="middle" fill="#71a45b" font-family="Arial Black" font-size="210" font-weight="900">AM</text>
+  <text x="500" y="655" text-anchor="middle" fill="#1c3526" font-family="monospace" font-size="26" font-weight="700">KLARK KENT</text>
+  <text x="350" y="515" fill="#1c3526" font-family="monospace" font-size="18">SIDE 1</text><text x="606" y="515" fill="#1c3526" font-family="monospace" font-size="18">AMS 7376</text>
+  <circle cx="500" cy="500" r="22" fill="#d4d5c8" stroke="#777" stroke-width="3"/><circle cx="500" cy="500" r="7" fill="#777"/>
+</svg>

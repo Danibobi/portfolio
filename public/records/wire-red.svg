@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <defs><radialGradient id="v"><stop stop-color="#42413e"/><stop offset=".62" stop-color="#171817"/><stop offset=".92" stop-color="#080908"/><stop offset="1" stop-color="#292b28"/></radialGradient></defs>
+  <circle cx="500" cy="500" r="492" fill="url(#v)"/>
+  <g fill="none" stroke="#8b8981" stroke-opacity=".18"><circle cx="500" cy="500" r="450"/><circle cx="500" cy="500" r="415"/><circle cx="500" cy="500" r="380"/><circle cx="500" cy="500" r="345"/><circle cx="500" cy="500" r="305"/></g>
+  <circle cx="500" cy="500" r="215" fill="#a92731"/><path d="M310 500h380M500 310v380" stroke="#f4e9bc" stroke-width="9"/>
+  <text x="500" y="436" text-anchor="middle" fill="#f4e9bc" font-family="Arial Black" font-size="72">WIRE</text><text x="500" y="582" text-anchor="middle" fill="#f4e9bc" font-family="monospace" font-size="28">DOT DASH</text>
+  <circle cx="500" cy="500" r="17" fill="#f4e9bc"/><circle cx="500" cy="500" r="6" fill="#555"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs><filter id="n"><feTurbulence baseFrequency=".28" numOctaves="4"/><feDisplacementMap in="SourceGraphic" scale="11"/></filter><linearGradient id="b" x2="0" y2="1"><stop stop-color="#c8ffb5"/><stop offset="1" stop-color="#042b16"/></linearGradient></defs>
+  <rect width="800" height="800" fill="#051b10"/><rect x="24" y="24" width="752" height="752" fill="url(#b)" opacity=".82"/>
+  <g filter="url(#n)" fill="#07100c"><ellipse cx="418" cy="200" rx="99" ry="128"/><path d="M321 315c49-42 151-45 203 6l63 329-324 1z"/><path d="M330 345 91 570l70 64 208-166zM512 344l192 214-66 66-168-166z"/></g>
+  <path d="M0 624h800v176H0z" fill="#07100c" opacity=".83"/><text x="62" y="694" fill="#d5e85b" font-family="Arial Black" font-size="65">DON'T CARE</text><text x="65" y="752" fill="#d5e85b" font-family="monospace" font-size="30">KLARK KENT / 1978</text>
+</svg>
