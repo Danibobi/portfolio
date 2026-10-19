@@ -137,7 +137,7 @@ export const records: RecordItem[] = [
     highlights: [
       "Founder & President of Founders Circle · 50+ members",
       "Sneaker reselling business · $10K+ revenue",
-      "Luna University · 100+ beta users and three Hungarian schools signed",
+      "Luna University · 500+ beta users and three Hungarian schools signed",
       "Global Shapers member · contributing to an active community project",
       "Trading agent and investing · 75%+ average yearly return across four consecutive years",
     ],
@@ -167,7 +167,7 @@ export const records: RecordItem[] = [
     },
     accentColor: "#dcf06d",
     linkLabel: "VIEW LUNA",
-    linkUrl: "https://luna.university.net",
+    linkUrl: "https://luna-university.net",
   },
   {
     id: "cyrcle",
